@@ -1,0 +1,10 @@
+{
+	name : "Modular Concepts - Phase, a Matter of Timing",
+	author : davelinnenbank,
+	category : Tutorial,
+	description : "This tutorial explores phase for driving step sequencers and animating sound. We start by looking at Bitwig's default tempo-locked behavior and then manipulate phase signals to create interesting relationships. Phase is a uniquely powerful idea, which is why it is central to The Grid and worth getting comfortable with.",
+	url : "https://www.bitwig.com/en/community/learning/grid-modular-concepts.html",
+	tags : pedagogy,
+	show_welcome_screen : false,
+	creation_date : 1565702222957
+}
